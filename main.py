@@ -3,7 +3,8 @@
 Writes exactly one letter, Z, to MAKEFUN_OUTPUT_DIR/entry.txt.
 The letter stands for the hidden word "zero sleep": the day in one
 letter, the sound of sleep itself (Zzz), and the most honest of the
-day's words. Stdlib only.
+day's words. One byte is also the smallest possible entry, which the
+bounty tie-break rewards. Stdlib only.
 """
 
 import os
